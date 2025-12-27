@@ -3,7 +3,7 @@ import { Bot } from 'lucide-react';
 import Logo from './Logo';
 
 const Footer: React.FC = () => {
-  const whatsappLink = "https://wa.me/5500000000000";
+  const whatsappLink = "https://wa.me/5537999798872";
 
   return (
     <footer className="bg-slate-950 pt-16 pb-12 border-t border-slate-900">
